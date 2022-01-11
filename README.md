@@ -117,9 +117,6 @@ Nome | E-mail | Cargo |
 Roberto Pinheiro | betopinheiro1005@yahoo.com.br | Developer PHP |
 
 
-
-# Curso-git-github
-
 > Material de apoio do curso de Git e Github do canal Geofisicando no youtube
 
 ## Comandos básicos do Git
