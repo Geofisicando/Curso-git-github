@@ -1,0 +1,3 @@
+adicionado uma linha no arquivo
+
+Implementação da funcionalidade 1
